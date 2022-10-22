@@ -1,0 +1,10 @@
+Version 1.9
+    -Suggestions: Suggestions has been completely changed to be entirely anonymous. Previously suggestions were sent via email, which is not anonymous, but now with the help of Damon, there is a new way to send suggestions that is entirely anonymous. No logins, emails, or personal info needed!
+    -Announcements: See important information at a glance, updated automatically. These announcements will be displayed at the top of the main shortcut menu.
+    -Employee Links: An easy way to access links that you may need such as People, Personal EPP, F&F EPP, myPage, and more!
+    -Badge Request->Memoji Badge Request: Changed name for better clarity
+    -Memoji Badge Request: Tweaked some settings for usability as well as adjusted some numbers for better formatting.
+    -Covid Tools: Fixed bug that caused the daily health check to open every time an item was selected.
+    -Recognition & Feedback: Separated categories for ease of use.
+    -Feedback-> Store Suggestions: Changed name for better clarity and uniformity.  
+    -Shortcut Updater: The "Update Shortcuts" function under settings did not previously work correctly. This bug has been resolved.
