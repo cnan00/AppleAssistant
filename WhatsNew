@@ -1,3 +1,10 @@
+Version 1.10
+    -Time & Scheduling: Sending incorrect punches to myTime has been streamlined for easier input
+    -Navigation: Added a back button to menues.
+    -More Shortcuts: An easy way to see more shortcuts that may be helpful!
+    -COVID Tools: If you have, or would like to have your device Approved to get COVID Tools Offificl app, there is an option in Settings for this under " COVID Tools utilities"
+    -General Bug fixes
+
 Version 1.9
     -Suggestions: Suggestions has been completely changed to be entirely anonymous. Previously suggestions were sent via email, which is not anonymous, but now with the help of Damon, there is a new way to send suggestions that is entirely anonymous. No logins, emails, or personal info needed!
     -Announcements: See important information at a glance, updated automatically. These announcements will be displayed at the top of the main shortcut menu.
