@@ -1,3 +1,6 @@
+Version 1.10.1
+    -Time & Scheduling: Now allows user to skip certain punches. 
+
 Version 1.10
     -Time & Scheduling: Sending incorrect punches to myTime has been streamlined for easier input
     -Navigation: Added a back button to menues.
