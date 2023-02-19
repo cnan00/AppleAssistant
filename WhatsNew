@@ -1,3 +1,6 @@
+Version 2.4
+    -Fixed time card bug causing lunch IN and lunch OUT to send the same time. 
+
 Version 2.3
     -Removed Covid Testing Time Edit
     -Added new links for easy access
